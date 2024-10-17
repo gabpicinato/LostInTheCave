@@ -1,6 +1,10 @@
 # Lost In The Cave
 
+## Overview
+
 **Lost In The Cave** is a 2D adventure game developed in C++ using Object-Oriented Programming (OOP) principles. The game is set in a mysterious cave environment where the objective is to navigate through obstacles, avoid enemies, and find the exit. The game supports both single-player and two-player modes and features two distinct levels with varying characters, obstacles, and difficulty levels. The project was developed as part of the Techniques of Programming course.
+
+![Gameplay](demo-gameplay.gif)
 
 ## Authors
 
@@ -31,6 +35,16 @@
 - **Enemies**: The game features 3 different enemies that challenge the player.
 - **Obstacles**: There are 3 distinct obstacles that make gameplay more difficult.
 - **Lives and Health**: Players must maintain their health to survive the cave's challenges.
+
+## Gameplay
+- Check out the gameplay of "Lost In The Cave" here: [Gameplay Video](https://www.youtube.com/watch?v=B5nA3dr4eMI)
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/guchemin/LostInTheCave.git
+
 
 ## Installation
 
